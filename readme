@@ -1,7 +1,7 @@
 # To Do List
 
 ## Demo Link
-[Access the app here](https://app.netlify.com/sites/todolist-teemu/)
+https://jquerytodolista.netlify.app/
 
 ---
 
@@ -25,7 +25,7 @@ To Do Lista is a simple and intuitive app that helps you keep track of tasks you
 ## Screenshots
 Here is a screenshot of the working application:
 
-![Screenshot](https://github.com/user-attachments/assets/230f537a-6bdd-4447-93b7-fec1933c4b68)
+
 
 ---
 
@@ -59,11 +59,7 @@ The To Do List app is complete and published.
 ---
 
 ## Credits
-This project was completed independently. Below are the resources and tools that were helpful during development:
-- [Great Stack YouTube Tutorial](https://www.youtube.com/watch?v=G0jO8kUrg-I&t=867s&ab_channel=GreatStack)
-- [Coding 2GO YouTube Tutorial](https://www.youtube.com/watch?v=THEKW1gITJI&ab_channel=Coding2GO)
-- [Medium Article on DOM Manipulation](https://medium.com/@medha_/todo-list-dom-manipulation-in-js-539ff1ad86a0)
-- **GitHub Copilot**: Assisted with code suggestions and improvements.
+This project was completed independently. 
 
 ---
 
