@@ -1,0 +1,71 @@
+# To Do List
+
+## Demo Link
+[Access the app here](https://app.netlify.com/sites/todolist-teemu/)
+
+---
+
+## Table of Contents
+- [About The App](#about-the-app)
+- [Screenshots](#screenshots)
+- [Technologies](#technologies)
+- [Setup](#setup)
+- [Features](#features)
+- [Status](#status)
+- [Credits](#credits)
+- [License](#license)
+
+---
+
+## About The App
+To Do Lista is a simple and intuitive app that helps you keep track of tasks you want to accomplish. You can add tasks, mark them as completed, and delete them when no longer needed.
+
+---
+
+## Screenshots
+Here is a screenshot of the working application:
+
+![Screenshot](https://github.com/user-attachments/assets/230f537a-6bdd-4447-93b7-fec1933c4b68)
+
+---
+
+## Technologies
+The following technologies were used to build this project:
+- **HTML**: For structuring the app.
+- **CSS**: For styling the app.
+- **JavaScript (jQuery)**: For adding interactivity and DOM manipulation.
+
+---
+
+## Setup
+To run the app locally, follow these steps:
+1. Clone or download the repository.
+2. Open the `index.html` file in your browser.
+3. Start managing your tasks!
+
+---
+
+## Features
+- Add new tasks to the list.
+- Mark tasks as completed with a "Tehty" button.
+- Delete tasks with a "Poista" button.
+- Responsive and user-friendly design.
+
+---
+
+## Status
+The To Do List app is complete and published.
+
+---
+
+## Credits
+This project was completed independently. Below are the resources and tools that were helpful during development:
+- [Great Stack YouTube Tutorial](https://www.youtube.com/watch?v=G0jO8kUrg-I&t=867s&ab_channel=GreatStack)
+- [Coding 2GO YouTube Tutorial](https://www.youtube.com/watch?v=THEKW1gITJI&ab_channel=Coding2GO)
+- [Medium Article on DOM Manipulation](https://medium.com/@medha_/todo-list-dom-manipulation-in-js-539ff1ad86a0)
+- **GitHub Copilot**: Assisted with code suggestions and improvements.
+
+---
+
+## License
+This project is licensed under the MIT License.
